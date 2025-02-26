@@ -9,9 +9,6 @@
   },
   "author": "yuuneeell",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CMSC-100-2S24-25/exer-04-javascript-basics-part-2-yuuneeell/issues"
-  },
   "homepage": "https://github.com/CMSC-100-2S24-25/exer-04-javascript-basics-part-2-yuuneeell#readme",
   "dependencies": {
     "snake-case": "^4.0.0",
