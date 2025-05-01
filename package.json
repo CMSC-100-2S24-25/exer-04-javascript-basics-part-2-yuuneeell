@@ -1,0 +1,18 @@
+{
+  "name": "exer-04-javascript-basics-part-2-yuuneeell",
+  "version": "1.0.0",
+  "description": "JavaScript Basics Part 2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuuneeell",
+  "license": "ISC",
+  "homepage": "https://github.com/CMSC-100-2S24-25/exer-04-javascript-basics-part-2-yuuneeell#readme",
+  "dependencies": {
+    "snake-case": "^4.0.0",
+    "uuid": "^11.1.0",
+    "validator": "^13.12.0"
+  }
+}
